@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_vepr762x54">
+		<text>Vepr 54R Tactical</text>
+	</string>
+	<string id="st_wpn_vepr762x54_descr">
+		<text>The Vepr 54R is an AK pattern, semi-auto rifle chambered in 7.62x54r. It is able to accept magzines from the SVD and thanks to the better ergonomics of the AK, it is easier to handle. However, it has a shorter barrel than an SVD and thus suffers from increased recoil and loss of accuracy at range. This version has
+			been fitted with aftermarket parts for greater ergonomics.\n \n </text>
+	</string>
+	
+		<string id="st_up_zatp_c10_name">
+		<text>Two Round Burst Mode</text>
+	</string>
+	<string id="st_up_zatp_c10_descr">
+		<text>Improvemnt of the rifle's trigger mechanism allows for two round burst.\n </text>
+	</string>
+	
+	<string id="st_burst_fire">
+		<text>2-round burst mode</text>
+	</string>
+
+
+</string_table>
